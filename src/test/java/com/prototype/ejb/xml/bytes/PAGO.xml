@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:pagoResponse xmlns:mx="http://www.mx.gob.imss.ctirss.delta.cobranza">
+  <mx:rfc>PES830525CU5</mx:rfc>
+  <mx:nombre>PAN LAS ESPIGAS, S. DE R.L.</mx:nombre>
+  <mx:periodoPago>201503</mx:periodoPago>
+  <mx:folioSUA>141072</mx:folioSUA>
+  <mx:subtotalIMSS>1716.28</mx:subtotalIMSS>
+  <mx:recargosIMSS>38.8</mx:recargosIMSS>
+  <mx:actualizacionIMSS>0</mx:actualizacionIMSS>
+  <mx:subtotalRCV>0</mx:subtotalRCV>
+  <mx:recargosRCV>0</mx:recargosRCV>
+  <mx:actualizacionRCV>0</mx:actualizacionRCV>
+  <mx:fechaPago>20150526</mx:fechaPago>
+  <mx:enitdadRecaudadora>3</mx:enitdadRecaudadora>
+  <mx:registroPatronal>E2318205101</mx:registroPatronal>
+  <mx:uuid>1498E752-336F-48A2-877D-38D6D28FA11F</mx:uuid>
+  <mx:xmlTimbradoSAT></mx:xmlTimbradoSAT>
+  <mx:codigoRespuesta>700</mx:codigoRespuesta>
+</mx:pagoResponse>
